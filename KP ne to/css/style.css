@@ -1,0 +1,54 @@
+.dive
+{
+display: flex;
+
+}
+.dv
+{
+	margin-left: 100px;
+	width: 500px;
+	height: 400px;
+
+}
+.zal
+{
+	background: #2B262C;
+}
+.zal1
+{
+	background: white;
+}
+.d
+{
+	margin-left: 120px;
+	height: 300px;
+    width: 600px;
+}
+.d1
+{
+	margin-left: 90px;
+}
+.d2
+{
+	margin-left: 135px;
+}
+.videof
+{
+	margin-top: 200px;
+}
+.image
+{
+		margin-left: 90px;
+}
+.d21
+{
+	display: flex;
+  height: 80px;
+  margin-left: 450px;
+}
+.imag
+{
+	width: 800px;
+height: 400px;
+	    margin-left: 400px;
+}
